@@ -18,7 +18,7 @@ namespace brudnopis5
                 Console.WriteLine(dataOd);
                 dataOd = dataOd.AddDays(1);
             }
-            
+            Console.WriteLine("grats");
             Console.ReadKey();
         }
 
