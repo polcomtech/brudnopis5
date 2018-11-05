@@ -20,6 +20,7 @@ namespace brudnopis5
             }
             Console.WriteLine("grats");
             Console.WriteLine("g2");
+            Console.WriteLine("g3");
             Console.ReadKey();
         }
 
